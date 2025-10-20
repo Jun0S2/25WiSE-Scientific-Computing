@@ -1,0 +1,11 @@
+# Rust build
+/target/
+
+# 편집기 임시 파일
+*.swp
+*.swo
+*.log
+
+# macOS
+.DS_Store
+
