@@ -5,8 +5,8 @@
 ```bash
 # cargo new exercise1
 # cargo build
-# cargo run ... or...
- ./exercise1/target/debug/exercise1
+cargo run
+# or... ./exercise1/target/debug/exercise1
 박혜준: Hello Scientific Computing.
 ```
 
