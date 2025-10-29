@@ -1,0 +1,4 @@
+var searchIndex = new Map(JSON.parse('[["gate",{"t":"HHHHHHHH","n":["add4","fa","ma","main","merge4","merge8","mul4x4","split4"],"q":[[0,"gate"]],"i":"````````","f":"{{bbbbbbbb}{{d{bbbbb}}}}{{bbb}{{d{bb}}}}{{bbbb}{{d{bb}}}}{{}f}{{bbbb}h}{{{d{bbbbbbbb}}}h}{{bbbbbbbb}{{d{bbbbbbbb}}}}{h{{d{bbbb}}}}","D":"Ab","p":[[1,"bool"],[1,"tuple",null,null,1],[1,"unit"],[1,"u8"]],"r":[],"b":[],"c":"OjAAAAAAAAA=","e":"OjAAAAAAAAA=","P":[]}]]'));
+if (typeof exports !== 'undefined') exports.searchIndex = searchIndex;
+else if (window.initSearch) window.initSearch(searchIndex);
+//{"start":39,"fragment_lengths":[389]}
