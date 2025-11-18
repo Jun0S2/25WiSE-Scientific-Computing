@@ -1,0 +1,1 @@
+/Users/june/Workspace/25WiSE-Scientific-Computing/week2/ex02-522142-park-hyejun/hailstone/target/release/hailstone: /Users/june/Workspace/25WiSE-Scientific-Computing/week2/ex02-522142-park-hyejun/hailstone/src/main.rs

@@ -1,0 +1,1 @@
+/Users/june/Workspace/25WiSE-Scientific-Computing/week2/ex02-522142-park-hyejun/gate/target/debug/gate: /Users/june/Workspace/25WiSE-Scientific-Computing/week2/ex02-522142-park-hyejun/gate/src/main.rs
