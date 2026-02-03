@@ -1,0 +1,1 @@
+{"rustc":9783247635632824192,"features":"[\"default\"]","declared_features":"[\"default\", \"serde\"]","target":1293958884150045679,"profile":2040997289075261528,"path":225575461501594036,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"release/.fingerprint/bytesize-737c85ffc091027f/dep-lib-bytesize","checksum":false}}],"rustflags":[],"config":2069994364910194474,"compile_kind":0}
