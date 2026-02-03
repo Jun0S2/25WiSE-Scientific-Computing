@@ -1,0 +1,8 @@
+[package]
+name = "ex12-522142-park-hyejun"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+good_lp = "1.8"
+itertools = "0.13"

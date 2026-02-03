@@ -1,0 +1,6 @@
+rm: conftest.dSYM: is a directory
+rm: conftest.dSYM: is a directory
+rm: conftest.dSYM: is a directory
+rm: conftest.dSYM: is a directory
+clang: error: unsupported option '-print-multi-os-directory'
+clang: error: no input files

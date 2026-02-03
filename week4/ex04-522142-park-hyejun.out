@@ -1,0 +1,6 @@
+===================================================================
+Archive:  ex04-522142-park-hyejun.zip
+caution: filename not matched:  ex04-522142-park-hyejun/Cargo.toml
+caution: filename not matched:  ex04-522142-park-hyejun/src/*
+ex04-522142-park-hyejun :
+./execute.sh: line 8: cd: ex04-522142-park-hyejun: No such file or directory

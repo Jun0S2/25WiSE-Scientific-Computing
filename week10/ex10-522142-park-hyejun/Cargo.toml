@@ -1,0 +1,8 @@
+[package]
+name = "ex10-522142-park-hyejun"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rayon = "1.10"
+mpi = "0.8.0"

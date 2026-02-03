@@ -1,0 +1,1 @@
+/Users/june/Workspace/25WiSE-Scientific-Computing/week10/ex10-522142-park-hyejun/target/release/ex10-522142-park-hyejun: /Users/june/Workspace/25WiSE-Scientific-Computing/week10/ex10-522142-park-hyejun/src/main.rs
